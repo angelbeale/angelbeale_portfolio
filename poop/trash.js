@@ -1,3 +1,7 @@
 function trash() {
-    poop = "trash";
+    var poop = "trash";
+}
+
+function feature() {
+    var fe = "feature";
 }
