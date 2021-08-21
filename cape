@@ -1,0 +1,14 @@
+[1mdiff --git a/poop/trash.js b/poop/trash.js[m
+[1mindex 0f4bc9f..2f445f5 100644[m
+[1m--- a/poop/trash.js[m
+[1m+++ b/poop/trash.js[m
+[36m@@ -1,3 +1,7 @@[m
+ function trash() {[m
+[31m-    poop = "trash";[m
+[32m+[m[32m    var poop = "trash";[m
+[32m+[m[32m}[m
+[32m+[m
+[32m+[m[32mfunction feature() {[m
+[32m+[m[32m    var fe = "feature";[m
+ }[m
+\ No newline at end of file[m
